@@ -29,7 +29,7 @@ The experiment will consist of a series of tests on the data contained in the da
 
 
 The main file already includes several experiments and refers to the directory "~/cleanData", which can be changed by modifying the `datasetDir` variable directly in the code.
-The above directory *must* contain the following CSV files:
+The above directory **must contain** the following CSV files:
 - NBAstats2WithId.csv
 - sensorsWithId.csv
 - synt2A1000000WithId.csv
@@ -44,7 +44,7 @@ The above directory *must* contain the following CSV files:
 - synt5A1000000WithId.csv
 - synt6A1000000WithId.csv
 
-All of these can be downloaded from *TO BE FILLED*.
+All of these can be downloaded from **TO BE FILLED**.
 The first file in the list is also available in this repository.
 
 Alternatively, you can comment out all calls to `experiment` and `syntheticExperiment` in the file and run an experiment to a specific CSV dataset of your choice.
