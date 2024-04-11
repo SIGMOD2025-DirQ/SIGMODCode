@@ -45,6 +45,7 @@ The above directory *must* contain the following CSV files:
 - synt6A1000000WithId.csv
 
 All of these can be downloaded from *TO BE FILLED*.
+The first file in the list is also available in this repository.
 
 Alternatively, you can comment out all calls to `experiment` and `syntheticExperiment` in the file and run an experiment to a specific CSV dataset of your choice.
 
