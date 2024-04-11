@@ -14,7 +14,8 @@ The code is written in swift and was tested under XCode 15.2. If you want to exe
 - choose Command Line Tool
 - name it as you like, say `DirQ`, and make sure that swift is the selected language
 - replace its `main.swift` file with the `main.swift` file available in this repository
-- click on the project name (`DirQ`) in the top bar and do Edit Scheme, then under `Run` select `Release` instead of `Debug` for the Build Configuration and uncheck `Debug executable`.
+- click on the project name (`DirQ`) in the top bar and do Edit Scheme, then under `Run` select `Release` instead of `Debug` for the Build Configuration and uncheck `Debug executable`
+- you are now ready to build and run: Product -> Run.
 
 
 ## How to use
