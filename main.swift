@@ -1,5 +1,6 @@
 // Instructions for experiments on directional queries:
-// 1) make sure you have all of the following csv files:
+// 1) make sure you have all of the following csv files, which can be downloaded 
+// from https://drive.google.com/file/d/1mbwK-4Oo4r__Ip73uNme3ykgET0pwjI1/view?usp=drive_link as a single zip file:
 //    - sensorsWithId.csv
 //    - NBAstats2WithId.csv
 //    - synt2A1000000WithId.csv
