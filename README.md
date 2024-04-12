@@ -45,7 +45,7 @@ The above directory **must contain** the following CSV files:
 - synt5A1000000WithId.csv
 - synt6A1000000WithId.csv
 
-All of these can be downloaded from **TO BE FILLED**.
+All of these can be downloaded from https://drive.google.com/file/d/1mbwK-4Oo4r__Ip73uNme3ykgET0pwjI1/view?usp=drive_link (a single zip file containing all datasets).
 The first file in the list is also available in this repository.
 
 Alternatively, you can comment out all calls to `experiment` and `syntheticExperiment` in the file and run an experiment to a specific CSV dataset of your choice.
